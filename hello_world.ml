@@ -1,3 +1,3 @@
 (* My first OCaml code *)
 
-print_endline "Hello, World!!"
+(print_endline : string -> unit) "Hello, World!!"
